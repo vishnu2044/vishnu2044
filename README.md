@@ -1,13 +1,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Vishnu Narayanan</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A passionate Python Fullstack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnu2044&label=Profile%20views&color=0e75b6&style=flat" alt="vishnu2044" /> </p>
 
-- 🔭 I’m currently working on [e commerce website](https://github.com/vishnu2044/BookStall)
+- 🔭 I’m currently working on [Student management site](https://github.com/vishnu2044/BookStall)
 
-- 🌱 I’m currently learning **mongodb and react in advance level**
+- 🌱 I’m currently learning **Django and React in advance level**
 
 - 💬 Ask me about **python django**
 
